@@ -1,2 +1,2 @@
-# mini_datastory
-Beautiful visuals to make data stories.
+# Mini Data Stories
+Collection of visualizations to bring out a short (mini) story out of data.
