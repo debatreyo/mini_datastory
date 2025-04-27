@@ -11,4 +11,8 @@ Collection of visualizations to bring out a short (mini) story out of data.
 Data can indeed be beautiful. With this I aimed for aesthetics rather than scientific accuracy.
 <img src="https://github.com/debatreyo/mini_datastory/blob/main/demographic_dividend/viz/demographic_dividend.jpeg" width="800" />
 
+### 3. Minutes To Glory
+Created this as UCL 2024-25 semi-finals were approaching.\nTime to take a glance at how the top-20 (by total goals scored) teams performed at different phases of the games.
+<img src="https://github.com/debatreyo/mini_datastory/blob/main/ucl/visual/ucl.jpeg?raw=true" width="800" />
+
 ---
