@@ -18,5 +18,6 @@ Time to take a glance at how the top-20 (by total goals scored) teams performed 
 
 ### 4. Where There's Wealth There Is Waiting
 Exploring how income, national development and norms surrounding age of marriage are co-related.
+<img src="https://github.com/debatreyo/mini_datastory/blob/main/marriage_age/visual/marriage_age.jpeg" width="1200" />
 
 ---
