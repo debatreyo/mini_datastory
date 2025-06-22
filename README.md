@@ -22,6 +22,6 @@ Exploring how income, national development and norms surrounding age of marriage
 
 ### 5. Climbing Quetly
 Capturing the silent rise of Indian Defece exports.
-<img src="https://github.com/debatreyo/mini_datastory/blob/main/defence_exports/data_viz/defence_exports.jpeg" width="1200" />
+<img src="https://github.com/debatreyo/mini_datastory/blob/main/defence_exports/data_viz/defence_exports_2.jpeg" width="1200" />
 
 ---
