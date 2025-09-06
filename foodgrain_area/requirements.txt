@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+pypalettes
+highlight_text
+pyfonts
+drawarrow
+pypalettes
+pywaffle
+ipykernel
