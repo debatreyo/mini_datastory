@@ -24,4 +24,8 @@ Exploring how income, national development and norms surrounding age of marriage
 Capturing the silent rise of Indian Defece exports.
 <img src="https://github.com/debatreyo/mini_datastory/blob/main/defence_exports/data_viz/defence_exports_4.jpeg" width="1200" />
 
+### 6. Pushed Aside: Rice & Wheat Take Over Indian Fields Since the 1970s
+Tracking how crop cultivation areas have shifted across decades.
+<img src="https://github.com/debatreyo/mini_datastory/blob/main/foodgrain_area/viz/food_area_decade.jpeg" width="1200" />
+
 ---
