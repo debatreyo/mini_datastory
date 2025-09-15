@@ -29,7 +29,7 @@ Tracking how crop cultivation areas have shifted across decades.
 <img src="https://github.com/debatreyo/mini_datastory/blob/main/foodgrain_area/viz/food_area_decade.jpeg" width="1200" />
 
 ### 7. Ring of Fire: Earthquake Hotspot of the Pacific Rim
-79% of all recorded magnitude 6+ earthquakes since 1900 occurred around the Pacific Rim, highlighting the seismic intensity of the “Ring of Fire.”.
+79% of all recorded magnitude 6+ earthquakes since 1900 occurred around the Pacific Rim, where intense seismic activity and volcanic “fire” from eruptions shape the Ring of Fire.
 <img src="https://github.com/debatreyo/mini_datastory/blob/main/Ring%20Of%20Fire/viz/ring_of_fire.jpeg" width="1200" />
 
 ---
