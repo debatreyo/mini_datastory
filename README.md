@@ -34,6 +34,6 @@ Tracking how crop cultivation areas have shifted across decades.
 
 ### 8. One Nation, One Market, Many Stories
 City-wise housing price trends in India (2010–2024) using RBI’s Housing Price Index — uncovering how Bengaluru, Chennai, Lucknow, and other cities followed very different growth paths.
-<img src="https://github.com/debatreyo/mini_datastory/blob/main/Housing%20Price/viz/housing.jpeg" width="1200" />
+<img src="https://github.com/debatreyo/mini_datastory/blob/main/Housing%20Price/viz/housing_prices.jpeg" width="1200" />
 
 ---
