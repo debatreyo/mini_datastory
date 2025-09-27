@@ -32,4 +32,8 @@ Tracking how crop cultivation areas have shifted across decades.
 79% of all recorded magnitude 6+ earthquakes since 1900 occurred around the Pacific Rim, where intense seismic activity and volcanic “fire” from eruptions shape the Ring of Fire.
 <img src="https://github.com/debatreyo/mini_datastory/blob/main/Ring%20Of%20Fire/viz/ring_of_fire.jpeg" width="1200" />
 
+### 8. One Nation, One Market, Many Stories
+City-wise housing price trends in India (2010–2024) using RBI’s Housing Price Index — uncovering how Bengaluru, Chennai, Lucknow, and others followed very different growth paths.
+<img src="https://github.com/debatreyo/mini_datastory/blob/main/Housing%20Price/viz/housing.jpeg" width="1200" />
+
 ---
