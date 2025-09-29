@@ -36,4 +36,8 @@ Tracking how crop cultivation areas have shifted across decades.
 City-wise housing price trends in India (2010–2024) using RBI’s Housing Price Index — uncovering how Bengaluru, Chennai, Lucknow, and other cities followed very different growth paths.
 <img src="https://github.com/debatreyo/mini_datastory/blob/main/Housing%20Price/viz/housing%20price%20index.jpeg" width="1200" />
 
+### 9. Disproportionate
+Visualizing how UAE’s GDP distribution compares to its land area across emirates.
+<img src="https://github.com/debatreyo/mini_datastory/blob/main/Disproportionate/viz/disproportionate.jpeg" width="1200" />
+
 ---
