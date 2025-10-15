@@ -40,4 +40,8 @@ City-wise housing price trends in India (2010–2024) using RBI’s Housing Pric
 Visualizing how UAE’s GDP distribution compares to its land area across emirates.
 <img src="https://github.com/debatreyo/mini_datastory/blob/main/Disproportionate/viz/disproportionate.jpeg" width="1200" />
 
+### 10. No Friends, No Foes - Only Oil
+India’s crude oil imports reflect pragmatism — shifting loyalties with price, politics, and opportunity.
+<img src="https://github.com/debatreyo/mini_datastory/blob/main/Oil%20Diplomacy/viz/oil.png" width="1200" />
+
 ---
